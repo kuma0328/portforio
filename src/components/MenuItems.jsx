@@ -1,22 +1,22 @@
 export const MenuItems = [
   {
     title: 'Home',
-    link: '/',
+    link: '/portforio/',
   },
   {
     title: 'About me',
-    link: '/about_me',
+    link: '/portforio/about_me',
   },
   {
     title: 'Skills',
-    link: '/skills',
+    link: '/portforio/skills',
   },
   {
     title: 'Learn more',
-    link: '/learn_more',
+    link: '/portforio/learn_more',
   },
   {
     title: 'Contact',
-    link: '/contact',
+    link: '/portforio/contact',
   },
 ];

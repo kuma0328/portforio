@@ -9,11 +9,11 @@ function App() {
       <div className='w-11/12 h-5/6 md:w-9/12'>
         <Router>
           <Routes>
-            <Route exact path='/' element={ <Home />}/>
-            <Route path='/about_me' element={ <Self />}/>
-            <Route path='/skills' element={ <Skills />}/>
-            <Route path='/learn_more' element={ <Learning />}/>
-            <Route path='/contact' element={ <Contact />}/>
+            <Route exact path='/portforio/' element={ <Home />}/>
+            <Route path='/portforio/about_me' element={ <Self />}/>
+            <Route path='/portforio/skills' element={ <Skills />}/>
+            <Route path='/portforio/learn_more' element={ <Learning />}/>
+            <Route path='/portforio/contact' element={ <Contact />}/>
           </Routes>
         </Router>
       </div>
