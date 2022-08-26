@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import {MenuItems} from './MenuItems'
 
 function Navbar() {
@@ -6,21 +7,17 @@ function Navbar() {
       <nav >
         <h1 className='bg-black h-20 text-white p-6 text-xl'>
           Portforio
-          {window.location.pathname}
           </h1>
         <ul className='Menu list'>
           {MenuItems.map((item, index) => {
             return (
-              <button 
+              <li 
               className='inline-block content-between w-1/5 text-gray-400 hover:text-black'
-              key={index}
-              onClick={() => {
-                window.location.pathname = item.link;
-              }}>
+              key={index}>
                 <div className='text-xl inline'>
-                  {item.title}
+                  <Link to={item.link}>{item.title}</Link>
                 </div>
-              </button>
+              </li>
             )
           } ) }
         </ul>
