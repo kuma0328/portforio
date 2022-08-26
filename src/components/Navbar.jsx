@@ -5,6 +5,7 @@ function Navbar() {
     <>
       <nav >
         <h1 className='bg-black h-20 text-white p-6 text-xl'>
+          Portforio
           {window.location.pathname}
           </h1>
         <ul className='Menu list'>
