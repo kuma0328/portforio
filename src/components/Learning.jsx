@@ -10,7 +10,7 @@ function Learning() {
           <li>2021/12</li>
           <li>2022/01</li>
           <li>2022/04</li>
-          <li>2021/06</li>
+          <li>2022/06</li>
         </ul>
       <ul className='text-xl space-y-12'>
           <li>同志社大学　入学</li>
