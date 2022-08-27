@@ -14,7 +14,7 @@ function Learning() {
         </ul>
       <ul className='text-xl space-y-12'>
           <li>同志社大学　入学</li>
-          <li>42Tokyo Piscine（入学試験）</li>
+          <li>42Tokyo Piscine</li>
           <li>atcoder 開始</li>
           <li>atcoder 茶色</li>
           <li>42Tokyo 入学</li>
