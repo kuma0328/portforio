@@ -1,4 +1,4 @@
-import { BrowserRouter as Route, Routes } from 'react-router-dom'
+import { Route, Routes } from 'react-router-dom'
 import {Home, Self, Skills, Learning, Contact, Navbar} from './components/index';
 
 
