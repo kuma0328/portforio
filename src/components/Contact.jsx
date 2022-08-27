@@ -4,7 +4,7 @@ import Atcoder_icon from '../images/atcoder.png'
 
 function Contact() {
   return (
-    <div className='flex space-x-12 flex-row justify-center items-center p-40'>
+    <div className='flex space-x-12 flex-row justify-center items-center'>
       <a href='https://twitter.com/42hnakatan'>
         <img src={Twitter_icon} alt='Twitter' />
       </a>
