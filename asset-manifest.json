@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portforio/static/css/main.c2f8c40a.css",
-    "main.js": "/portforio/static/js/main.6c34c7e9.js",
+    "main.js": "/portforio/static/js/main.85487af9.js",
     "static/media/atcoder.png": "/portforio/static/media/atcoder.d1390a841d7ba3c30ccf.png",
     "static/media/react.svg": "/portforio/static/media/react.e27571eaed899c642345e71163624ef9.svg",
     "static/media/github-icon.svg": "/portforio/static/media/github-icon.04ed74f38b41cdcbf14f80ae8cd0aa2b.svg",
@@ -11,10 +11,10 @@
     "static/media/twitter.svg": "/portforio/static/media/twitter.740c588fcf1776067d15107863dbf2bc.svg",
     "index.html": "/portforio/index.html",
     "main.c2f8c40a.css.map": "/portforio/static/css/main.c2f8c40a.css.map",
-    "main.6c34c7e9.js.map": "/portforio/static/js/main.6c34c7e9.js.map"
+    "main.85487af9.js.map": "/portforio/static/js/main.85487af9.js.map"
   },
   "entrypoints": [
     "static/css/main.c2f8c40a.css",
-    "static/js/main.6c34c7e9.js"
+    "static/js/main.85487af9.js"
   ]
 }
