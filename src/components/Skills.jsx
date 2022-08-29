@@ -4,7 +4,7 @@ import {SkillData} from './data/Skill/SkillData'
 function Skills() {
   const [Text, setText] = useState('画像をクリックしてね')
 
-  function handleChangeText({text}) {
+  function handleChangeText(text) {
     setText(prevState => text)
   }
 
@@ -13,7 +13,7 @@ function Skills() {
       <div className='flex space-x-12 flex-row justify-center items-center'>
         {SkillData.map((item, index) => {
           return (
-            <img src={item.image} alt={item.title} onClick={handleChangeText(item.text)} className='w-1/4'/>
+            <img src={item.image} alt={item.title} onClick={ () => handleChangeText(item.text)} className='w-1/4'/>
           )
         } ) }
       </div>
