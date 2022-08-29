@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import {MenuItems} from './MenuItems'
+import {MenuItems} from './data/Menu/MenuItems'
 
 function Navbar() {
   return (
