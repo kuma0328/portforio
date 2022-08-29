@@ -1,3 +1,9 @@
+# Usage
+ポートフォリオサイトです。
+
+# URL
+https://kuma0328.github.io/portforio/#/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
