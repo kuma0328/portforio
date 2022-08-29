@@ -1,5 +1,5 @@
 import Icon from '../images/icon.png'
-import {SelfData} from './data/Self/SelfData'
+import {SelfData} from '../data/Self/SelfData'
 
 function Self() {
   return (

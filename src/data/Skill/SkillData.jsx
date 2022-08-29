@@ -1,7 +1,7 @@
-import c_plus_img from '../../../images/c-plusplus.svg'
-import c_img from '../../../images/c.svg'
-import python_img from '../../../images/python.svg'
-import react_img from '../../../images/react.svg'
+import c_plus_img from '../../images/c-plusplus.svg'
+import c_img from '../../images/c.svg'
+import python_img from '../../images/python.svg'
+import react_img from '../../images/react.svg'
 
 export const SkillData = [
   {

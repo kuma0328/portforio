@@ -1,13 +1,10 @@
 import { Link } from 'react-router-dom';
-import {MenuItems} from './data/Menu/MenuItems'
+import {MenuItems} from '../data/Menu/MenuItems'
 
 function Navbar() {
   return (
     <>
       <nav>
-        <h1 className='bg-black h-20 text-white p-6 text-xl'>
-          Portforio
-        </h1>
         <ul className='Menu list'>
           {MenuItems.map((item, index) => {
             return (

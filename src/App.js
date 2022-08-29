@@ -1,11 +1,12 @@
 import { Route, Routes } from 'react-router-dom'
-import {Home, Self, Skills, Learning, Contact, Navbar} from './components/importFile/index';
+import {Home, Self, Skills, Learning, Contact, Navbar, Title} from './components/index';
 import { HashRouter as Router } from 'react-router-dom';
 
 function App() {
   return (
     <>
       <Router>
+        <Title />
         <Navbar />
           <div className='flex justify-center items-center w-screen h-screen'>
             <div className='w-11/12 h-5/6 md:w-9/12'>

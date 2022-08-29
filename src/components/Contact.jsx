@@ -1,4 +1,4 @@
-import {ContactData} from './data/Contact/ContactData' 
+import {ContactData} from '../data/Contact/ContactData' 
 
 function Contact() {
   return (

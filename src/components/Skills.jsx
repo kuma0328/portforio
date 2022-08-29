@@ -1,5 +1,5 @@
 import {useState} from 'react'
-import {SkillData} from './data/Skill/SkillData'
+import {SkillData} from '../data/Skill/SkillData'
 
 function Skills() {
   const [Text, setText] = useState('画像をクリックしてね')

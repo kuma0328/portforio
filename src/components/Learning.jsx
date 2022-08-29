@@ -1,5 +1,5 @@
 import React from 'react'
-import {LearningData} from './data/Learning/LearningData'
+import {LearningData} from '../data/Learning/LearningData'
 
 function Learning() {
   return (

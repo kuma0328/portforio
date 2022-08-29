@@ -1,6 +1,6 @@
-import Twitter_icon from '../../../images/twitter.svg'
-import Github_icon from '../../../images/github-icon.svg'
-import Atcoder_icon from '../../../images/atcoder.png'
+import Twitter_icon from '../../images/twitter.svg'
+import Github_icon from '../../images/github-icon.svg'
+import Atcoder_icon from '../../images/atcoder.png'
 
 export const ContactData = [
   {
